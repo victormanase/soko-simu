@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="logged_in">200</integer>
+    <integer name="logged_out">100</integer>
+    <integer name="logged_defaultValue">13</integer>
+    <integer name="Installed">13</integer>
+    <integer name="SignedOut">13</integer>
+</resources>

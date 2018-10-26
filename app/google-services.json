@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "583630994581",
+    "project_id": "firebase-soko-simu"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583630994581:android:921098839e1a999b",
+        "android_client_info": {
+          "package_name": "com.sokosimu.sokosimu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583630994581-01b5m2rbbcae3l9kjboemjl30im89kjj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "583630994581-7f1mjrshr1kbj05k82bc6kfd9ig0e64a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sokosimu.sokosimu",
+            "certificate_hash": "23e0d4f2f7a1d888a7c9c9bc3c6409d1fab343a1"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf5McZuvgllXUUzEL_-N0z3KabKvdrtn0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
